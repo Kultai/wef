@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+}
+header h1 {
+  margin-left: 60px;
+  margin-top: 10px;
+}
+.decs {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 820px;
+  gap: 20px;
+  margin-top: 20px;
+  font-size: 20px;
+  color: rgb(112, 119, 125);
+}
+
+.au {
+  width: 90%;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.bord {
+  width: 89%;
+  height: 50px;
+  border: 2px solid;
+  border-radius: 40px;
+  margin-left: 50px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+.bord p {
+  margin-top: 12px;
+  margin-left: 30px;
+}
+.bord button {
+  background: none;
+  border: none;
+  font-size: 15px;
+  color: rgb(112, 119, 125);
+}
+
+.w {
+  height: 70%;
+  margin-top: 5px;
+}
+
+.sau {
+  width: 30%;
+}
+
+.har {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  color: blue;
+}
+
+.fonts {
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.fonts h4 {
+  color: rgb(112, 119, 125);
+  margin-top: 30px;
+}
+.fonts hr {
+  width: 300px;
+  margin-top: 100px;
+}
+
+.half {
+  display: flex;
+  justify-content: space-around;
+}
+
+.haf {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 200px;
+}
+
+.f2 {
+  font-family: monospace;
+  margin-top: 12px;
+}
+
+.f3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 19px;
+}
+.f4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.f5 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.f6 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
